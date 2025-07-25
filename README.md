@@ -1,4 +1,4 @@
-## Issue with ai model file being too large, currently being resolved
+## **Issue with ai model file being too large, currently being resolved
 # music_mood_api
 A FastAPI-based machine learning project that analyzes mp3 files and predicts the emotional content of songs based on audio features extracted using librosa. Built with a custom-trained multi-output regression model.
 
